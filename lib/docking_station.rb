@@ -3,5 +3,3 @@ class DockingStation
     
   end
 end
-
-docking_station = DockingStation.new
