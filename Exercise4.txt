@@ -1,0 +1,9 @@
+Error Type: NameError
+Path: ../.rvm/rubies/ruby2.4.0/bin/irb:11:in `<main>'
+Line: 11
+
+Error Meaning: DockingStation
+doesn't exist so when we call it, the program doesn't
+know what it is.
+
+Solution: Create an object called DockingStation so that it is initialized
