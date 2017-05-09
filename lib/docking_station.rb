@@ -3,3 +3,8 @@ class DockingStation
     "New bike"
   end
 end
+
+class Bike
+  def working?
+  end
+end
