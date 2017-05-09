@@ -22,3 +22,9 @@ Objects | Messages
 User | hire_bike, 
 Bike | check_bike_condition
 Docking Station | release_bike
+
+
+## Domain Model
+
+
+![Domain Model](https://github.com/SiAshbery/boris_bikes/blob/master/images/domain-model.jpg?raw=true)
